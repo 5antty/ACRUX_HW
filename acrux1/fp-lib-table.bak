@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "bmp390_module") (type "KiCad") (uri "${KIPRJMOD}/bmp390_module.pretty") (options "") (descr ""))
+	(lib (name "bluepill") (type "KiCad") (uri "${KIPRJMOD}/bluepill.pretty") (options "") (descr ""))
+	(lib (name "lsm6dsox_module") (type "KiCad") (uri "${KIPRJMOD}/lsm6dsox_module.pretty") (options "") (descr ""))
+	(lib (name "sx1278_module") (type "KiCad") (uri "${KIPRJMOD}/sx1278_module.pretty") (options "") (descr ""))
+)
