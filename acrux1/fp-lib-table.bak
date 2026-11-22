@@ -4,4 +4,6 @@
 	(lib (name "bluepill") (type "KiCad") (uri "${KIPRJMOD}/bluepill.pretty") (options "") (descr ""))
 	(lib (name "lsm6dsox_module") (type "KiCad") (uri "${KIPRJMOD}/lsm6dsox_module.pretty") (options "") (descr ""))
 	(lib (name "sx1278_module") (type "KiCad") (uri "${KIPRJMOD}/sx1278_module.pretty") (options "") (descr ""))
+	(lib (name "memflash") (type "KiCad") (uri "${KIPRJMOD}/memflash.pretty") (options "") (descr ""))
+	(lib (name "buzzer_module") (type "KiCad") (uri "${KIPRJMOD}/buzzer_module.pretty") (options "") (descr ""))
 )

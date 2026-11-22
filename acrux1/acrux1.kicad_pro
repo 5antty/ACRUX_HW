@@ -665,7 +665,7 @@
         "uuid": "6ea0d439-49a0-445d-bb88-fdda4e057541"
       }
     ],
-    "used_designators": "#PWR1-12,BMP1,BluePill_Connector1-2,J1-2,U1-6",
+    "used_designators": "#PWR1-21,BMP1,BluePill_Connector1-2,C1,J1-2,R1-2,U1-9",
     "variants": []
   },
   "sheets": [
